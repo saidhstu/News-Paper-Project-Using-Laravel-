@@ -1,0 +1,16 @@
+//Colors
+$bizzblue: rgb(64, 196, 255);
+
+// Body
+$body-bg: #f5f8fa;
+
+// Navbar
+$navbar-height: 48px;
+$primary-color: $bizzblue;
+$secondary-color: $bizzblue;
+$sidenav-bg-color: #2c3e50;
+
+//Forms and buttons
+$input-focus-color: $bizzblue;
+$button-raised-background: $bizzblue;
+$button-background-focus: lighten($bizzblue, 15%);

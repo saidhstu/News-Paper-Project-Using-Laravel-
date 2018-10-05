@@ -1,0 +1,50 @@
+a.BizznieuwsCardLink {
+  text-decoration: none;
+}
+
+div.BizznieuwsShadowBox {
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+div.BizznieuwsCard {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  word-wrap: break-word !important;
+}
+
+div.BizznieuwsShadowBox:hover {
+  -webkit-box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+div.BizznieuwsCardTitle {
+  padding: 5px 16px 5px 16px;
+}
+
+div.BizznieuwsCardTitle h1:hover {
+  text-decoration: underline;
+}
+
+div.BizznieuwsCardContent {
+  padding: 5px 16px 5px 16px;
+  word-wrap: break-word !important;
+}
+
+div.BizznieuwsClose,
+div.BizznieuwsClose a {
+  padding: 5px 16px 5px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+
+div.BizznieuwsClose:hover a {
+  text-decoration: underline;
+}
+
+div.BizznieuwsArticleContent {
+  padding: 5px 16px 5px 16px;
+  word-wrap: break-word !important;
+}

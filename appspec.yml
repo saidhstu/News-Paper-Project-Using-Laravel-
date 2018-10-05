@@ -1,0 +1,10 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/bizznews/
+permissions:
+  - object: /var/www/bizznews/
+    owner: apache
+    group: www
+  

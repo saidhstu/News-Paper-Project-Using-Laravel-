@@ -1,0 +1,16 @@
+<?php return [
+	'automatic' => 'Automatisch',
+	'ignore' => 'Negeer',
+	'article_title' => 'Artikel titel',
+	'article_link' => 'Artikel link',
+	'article_description' => 'Artikel beschrijving',
+	'article_date' => 'Artikel datum',
+	'article_image' => 'Artikel afbeelding',
+	'article_category' => 'Artikel categorie',
+	'article_author' => 'Artikel auteur',
+	'article_price' => 'Artikel prijs',
+	'article_externalId' => 'Artikel extern ID',
+	'article_company' => 'Artikel bedrijf',
+	'article_language' => 'Artikel taal',
+	'article_location' => 'Artikel locatie',
+];
